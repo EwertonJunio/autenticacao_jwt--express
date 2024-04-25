@@ -1,0 +1,22 @@
+{
+  "name": "aut_jwt_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EwertonJunio/autenticacao_jwt_express.git"
+  },
+  "author": "Ewerton junio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EwertonJunio/autenticacao_jwt_express/issues"
+  },
+  "homepage": "https://github.com/EwertonJunio/autenticacao_jwt_express#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
